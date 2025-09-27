@@ -1,2 +1,5 @@
-# ML_is_churned
-Projeto para fazer a predição se uma pessoa irá cancelar a assinatura do spotify
+# Projetos de IA
+Projetos que fiz como estudos para Inteligência Aritificial
+
+### Projetos
+ - IA de predição de cancelamento de assinatura do spotify
